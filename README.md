@@ -71,7 +71,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co/KmtY8P4/Blue-Yellow-Trend-Minimalist-Digital-Logo-1.png"  />
+  <img height="200" src="https://i.imgur.com/0EPELus.png"  />
 </div>
 
 ###
