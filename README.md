@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Substitua o link abaixo pela URL do seu banner hospedado no próprio GitHub -->
-  <img src="./assets/banner.jpg" alt="Banner Anisio Diogo - Front-end Developer" width="150" height="150"">
+  <img src="./assets/banner.jpg" alt="Banner Anisio Diogo - Front-end Developer" width="450" height="450"">
 
   <br><br>
 
