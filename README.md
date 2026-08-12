@@ -1,88 +1,104 @@
-<br clear="both">
+<div align="center">
+  <!-- Substitua o link abaixo pela URL do seu banner hospedado no próprio GitHub -->
+  <img src="link-do-seu-banner.png" alt="Banner Anisio Diogo - Front-end Developer" width="100%">
 
-<h2 align="center">Hi My names is  Anisio Diogo, sou estudante de Ciência da Computação 💻</h2>
+  <br><br>
 
-###
+  <h3>Front-end Developer • Computer Science Student • Building Real Projects</h3>
+
+  <p>
+    Sou estudante de Ciência da Computação e desenvolvedor Front-end em formação. Meu foco atual é construir interfaces modernas, performáticas e intuitivas, com o objetivo de atuar como Front-end Developer Júnior e, futuramente, evoluir para Full Stack.
+  </p>
+</div>
+
+<hr>
+
+## 💻 Tech Stack
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/anisio-diogo-50b0542b1/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="27" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/gWGsbTx3cf" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="39" height="27" alt="discord logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/u/0/?pli=1#inbox" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="39" height="27" alt="gmail logo"  />
-  </a>
-  <a href="https://t.me/Anisiodiogo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="39" height="27" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com/dev_anisio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="39" height="27" alt="instagram logo"  />
-  </a>
+  <!-- Front-end -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+  <br>
+  <!-- Back-end & DB -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/SQL-007BFF?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <br>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
-###
+<hr>
 
-<p align="left">Linguagens main 🧑🏽‍💻:</p>
+## 🚀 Projetos em Destaque
 
-###
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <!-- Substitua o link pela imagem de capa do projeto -->
+      <img src="link-capa-app-vida.png" alt="Meu App Vida" width="100%">
+      <br>
+      <h3>Meu App Vida</h3>
+      <p>Aplicação web para organização pessoal, rotina, estudos e finanças com integração de IA.</p>
+      <i>React • Vite • Tailwind CSS • Firebase</i>
+      <br><br>
+      <a href="https://github.com/AnisioDiogo/meu-app-vida">🔗 Acessar Repositório</a>
+    </td>
+    <td align="center" width="50%">
+      <img src="link-capa-pizzaria.png" alt="Pizzaria Oliveira" width="100%">
+      <br>
+      <h3>Pizzaria Oliveira</h3>
+      <p>Sistema web de pedidos com carrinho, painel administrativo e gerenciamento.</p>
+      <i>React • Firebase</i>
+      <br><br>
+      <a href="https://github.com/AnisioDiogo/pizzaria-oliveira">🔗 Acessar Repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="link-capa-bee-life.png" alt="Bee Life" width="100%">
+      <br>
+      <h3>Bee Life</h3>
+      <p>Aplicação full-stack combinando ecossistema de front e back-end estruturado.</p>
+      <i>React • Python • FastAPI</i>
+      <br><br>
+      <a href="https://github.com/SEU_USUARIO/bee-life">🔗 Acessar Repositório</a>
+    </td>
+    <td align="center" width="50%">
+      <img src="link-capa-blog.png" alt="Blog B. Silva" width="100%">
+      <br>
+      <h3>Blog B. Silva</h3>
+      <p>Projeto web completo com prototipagem de interface e desenvolvimento focado em UI.</p>
+      <i>HTML • CSS • Figma</i>
+      <br><br>
+      <a href="https://github.com/AnisioDiogo/blog-b-silva">🔗 Acessar Repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="link-capa-receitas.png" alt="Receitas do Nordeste" width="50%">
+      <br>
+      <h3>Receitas do Nordeste</h3>
+      <p>Projeto acadêmico focado em estruturação semântica e estilização.</p>
+      <i>HTML5 • CSS3</i>
+      <br><br>
+      <a href="https://github.com/AnisioDiogo/receitas-do-nordeste">🔗 Acessar Repositório</a>
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-</div>
+<hr>
 
-###
-
-<p align="left">Tools🛠:</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-</div>
-
-###
-
-<br clear="both">
+## 📊 Estatísticas
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/0EPELus.png"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=c9d1d9&icon_color=8A2BE2" alt="Estatísticas do Anisio" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=c9d1d9" alt="Top Linguagens" height="170px"/>
 </div>
-
-###
-
-<p align="left">Meus desenvolvimento ⚙️:</p>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnisioDiogo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnisioDiogo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
