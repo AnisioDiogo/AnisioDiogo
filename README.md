@@ -99,6 +99,6 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=c9d1d9&icon_color=8A2BE2" alt="Estatísticas do Anisio" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=c9d1d9" alt="Top Linguagens" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AnisioDiogo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=c9d1d9&icon_color=8A2BE2" alt="Estatísticas do Anisio" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnisioDiogo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&text_color=c9d1d9" alt="Top Linguagens" height="170px"/>
 </div>
