@@ -43,13 +43,13 @@
   <tr>
     <td align="center" width="50%">
       <!-- Substitua o link pela imagem de capa do projeto -->
-      <img src="link-capa-app-vida.png" alt="Meu App Vida" width="100%">
+      <img src="https://github.com/AnisioDiogo/Conflui-web/blob/main/public/icons/apple-touch-icon.svg" alt="Meu App Vida" width="100%">
       <br>
       <h3>Meu App Vida</h3>
       <p>Aplicação web para organização pessoal, rotina, estudos e finanças com integração de IA.</p>
       <i>React • Vite • Tailwind CSS • Firebase</i>
       <br><br>
-      <a href="https://github.com/AnisioDiogo/meu-app-vida">🔗 Acessar Repositório</a>
+      <a href="https://github.com/AnisioDiogo/Conflui-web/tree/main">🔗 Acessar Repositório</a>
     </td>
     <td align="center" width="50%">
       <img src="link-capa-pizzaria.png" alt="Pizzaria Oliveira" width="100%">
