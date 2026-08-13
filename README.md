@@ -43,7 +43,7 @@
   <tr>
     <td align="center" width="50%">
       <!-- Substitua o link pela imagem de capa do projeto -->
-      <img src="https://github.com/AnisioDiogo/Conflui-web/blob/main/public/icons/apple-touch-icon.svg" alt="Meu App Vida" width="100%">
+      <img src="https://github.com/AnisioDiogo/Conflui-web/blob/main/public/icons/apple-touch-icon.svg" alt="Meu App Vida" width="450" height="450"">
       <br>
       <h3>Meu App Vida</h3>
       <p>Aplicação web para organização pessoal, rotina, estudos e finanças com integração de IA.</p>
